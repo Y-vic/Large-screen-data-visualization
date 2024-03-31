@@ -519,6 +519,3 @@ function topology(data) {
   network.setOptions(options);
 };
 ```
-
-
-
